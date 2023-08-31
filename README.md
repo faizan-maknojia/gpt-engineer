@@ -24,7 +24,7 @@ GPT Engineer is made to be easy to adapt, extend, and make your agent learn how 
 ## Getting Started
 **Step 1: Settting an OPENAI_API Key**
 - Before getting started, we need to set an OPENAI_API Key.
-  
+
 **For Windows:**
 - Set your ‘OPENAI_API_KEY’ Environment Variable through the Control Panel:
   
@@ -49,9 +49,6 @@ source ~/.zshrc
 ```
 echo $OPENAI_API_KEY
 ```
-  
-     
-    
 **Step 2: Installation**
 - Before you can begin using GPT-Engineer, you need to ensure that it is installed on your system. You can install it using the following command:
 ```
